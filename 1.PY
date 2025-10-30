@@ -8,5 +8,10 @@ def subtraction(a,b):
 
 
 
+# Multiplication
+def multiplication(a,b)
+    return a*b
+
 print(addition(2,3))
 print(subtraction(8,2))
+print(multiplication(4,5))
